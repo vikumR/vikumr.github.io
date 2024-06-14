@@ -43,7 +43,7 @@ B.Sc. Special (Hons) In Information Technology Specializing In Software Engineer
 
 ## Projects
 - [Real-Time Decision Optimization Platform for Airline Operations (12/2020)](https://ieeexplore.ieee.org/document/9357157)
-Built the sub-system: [AviOps Bay](https://github.com/vikumR/AviOps_Bay), which optimized gate allocation tasks at an airport. Used sub-optimal computing for optimisation and java with the combined benefits of Genetic Algorithm and Iterated Local Search Algorithm.</br>
+Built the sub-system: [AviOps Bay](https://github.com/vikumR/AviOps_Bay), which optimized gate allocation tasks at an airport. Used sub-optimal computing for optimisation and java with the combined benefits of Genetic Algorithm and Iterated Local Search Algorithm.
 
 - An [Event Booking App](https://github.com/vikumR/react-graphql-event-booking-app) developed with React, Node.js, Express.js, GraphQL, JWT, and Docker.
 
