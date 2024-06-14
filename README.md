@@ -48,4 +48,4 @@ Built the sub-system: [AviOps Bay](https://github.com/vikumR/AviOps_Bay), which 
 - An [Event Booking App](https://github.com/vikumR/react-graphql-event-booking-app) developed with React, Node.js, Express.js, GraphQL, JWT, and Docker.
 
 ## One fact (outside of work) about me is that...
-I am interested in Machine Learning and the AI domain, with a published paper focusing on heuristics and suboptimal computing. Additionally, I am passionate about traveling and language transfer, aspiring to become a polyglot. In my leisure time, I enjoy playing table tennis and cricket.
+I am passionate about traveling and language transfer, aspiring to become a polyglot. In my leisure time, I enjoy playing table tennis and cricket.
