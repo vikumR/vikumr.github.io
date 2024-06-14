@@ -1,5 +1,5 @@
 title: Vikum Bandara
-#logo: <relative path to your image ex: /assets/img/headshot.png>
+logo: /assets/img/vikumb_profile.jpeg
 description: Back End | Java | Full Stack
 show_downloads: true
-them: jekyll-theme-minimal
+theme: jekyll-theme-minimal
