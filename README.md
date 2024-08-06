@@ -12,7 +12,7 @@ With 4 years of professional experience in Software Engineering, I specialize in
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vikumR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikum-bandara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/VRB11/)  
 
 ## Work Experience
-### Senior Software Engineer (07/2023 - 06/2024) | 99X
+### Senior Software Engineer (07/2023 - 07/2024) | 99X
 - Played a key role in the successful go-live of "Trace Suite", a **scalable** and **distributed ERP platform** offered as SaaS for trade logistics for three of the largest retailers in Norway and Sweden, impacting over **1 million customers**. Made significant contributions in fast launches and frequent iterations, prioritized bug fixes and provided production support as needed.
 
 - Led feature development for 20% of Retail Order flows of the Order Management System (OMS), deployed on Azure, authenticated with Keycloak. Championed **RESTful microservices** and **API design** with **Java**, **Spring Boot**, **Groovy**, **PostgreSQL**, and utilized **Swagger** for comprehensive API documentation within an **Agile/Scrum** team spread across Sri Lanka, Norway, and Thailand. Directed the full lifecycle of development tasks **from backlog refinement to delivery**, ensuring a 100% on-time completion rate, which boosted client satisfaction ratings by 25% and enhanced overall functionality. Undertook full stack tasks with **Vue.js**, **JavaScript**, **TypeScript**, **HTML/CSS**, and **Java** to address complex user needs.
